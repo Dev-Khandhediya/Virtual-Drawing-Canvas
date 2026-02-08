@@ -51,8 +51,8 @@ hand movement and convert it into smooth drawing strokes in real time.
 ### 1️⃣ Clone the Repository
 Open terminal / command prompt and run:
 ```bash
-  -> git clone https://github.com/your-username/Virtual-Drawing-Canvas-OpenCV.git
-  -> cd Virtual-Drawing-Canvas-OpenCV
+  -> git clone https://github.com/your-username/Virtual-Drawing-Canvas.git
+  -> cd Virtual-Drawing-Canvas
 
 2️⃣ Install Required Libraries
 
@@ -60,7 +60,7 @@ Open terminal / command prompt and run:
 
 3️⃣ Run the Application
 
-    -> python virtual_canvas.py
+    -> python air_drawing.py
 ---
 
 🎮 How to Use the Application

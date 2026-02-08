@@ -77,4 +77,4 @@ Open terminal / command prompt and run:
 👨‍💻 Author
 Dev Khandhediya
 
-LinkedIn: 
+LinkedIn: https://www.linkedin.com/in/dev-khandhediya-62a601344
